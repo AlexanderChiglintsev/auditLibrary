@@ -6,14 +6,14 @@
 
   <parent>
     <groupId>snx.dl</groupId>
-    <artifactId>simplelib-spring-boot-custom-starter</artifactId>
+    <artifactId>audit-lib-spring-boot-custom-starter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
 
-  <artifactId>simplelib-spring-boot-starter</artifactId>
+  <artifactId>audit-lib-spring-boot-starter</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>simplelib-spring-boot-starter</name>
-  <description>simplelib-spring-boot-starter</description>
+  <name>audit-lib-spring-boot-starter</name>
+  <description>audit-lib-spring-boot-starter</description>
   <packaging>jar</packaging>
 
   <dependencies>

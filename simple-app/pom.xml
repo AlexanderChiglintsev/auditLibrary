@@ -6,7 +6,7 @@
 
   <parent>
     <groupId>snx.dl</groupId>
-    <artifactId>simplelib-spring-boot-custom-starter</artifactId>
+    <artifactId>audit-lib-spring-boot-custom-starter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
 
@@ -24,7 +24,7 @@
 
     <dependency>
       <groupId>snx.dl</groupId>
-      <artifactId>simplelib-spring-boot-starter</artifactId>
+      <artifactId>audit-lib-spring-boot-starter</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
   </dependencies>

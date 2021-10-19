@@ -9,15 +9,15 @@ public class SimpleBean {
 
   @Audited
   void methodOne() {
-    System.out.println("Method 1");
+    System.out.println("Method 1 call");
+  }
+
+  void methodTwo() {
+    System.out.println("Method 2 call");
   }
 
   @Audited
-  void methodTwo() {
-    System.out.println("Method 2");
-  }
-
   void methodThree() {
-    System.out.println("Method 3");
+    System.out.println("Method 3 call");
   }
 }

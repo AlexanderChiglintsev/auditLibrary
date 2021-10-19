@@ -12,13 +12,13 @@
   </parent>
 
   <groupId>snx.dl</groupId>
-  <artifactId>simplelib-spring-boot-custom-starter</artifactId>
+  <artifactId>audit-lib-spring-boot-custom-starter</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <modules>
     <module>audit-lib</module>
-    <module>simplelib-spring-boot-starter</module>
+    <module>audit-lib-spring-boot-starter</module>
     <module>simple-app</module>
   </modules>
 
